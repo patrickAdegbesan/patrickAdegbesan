@@ -13,15 +13,16 @@ Software engineer at [3O1Atech](https://github.com/3O1Atech). B.Sc. Computer Sci
 | [CampusDash](https://mr-path.site/work/campusdash.html) | Campus food delivery: Expo app, WhatsApp ordering, admin dashboard, card-terminal point of sale | API and payments (shared), terminal and desktop POS apps |
 | [ZeDI](https://mr-path.site/work/zedi.html) | Money app with a double-entry ledger and PIN-confirmed payments | Most of the code across API, web, mobile and admin |
 | [F&F Tiles POS](https://mr-path.site/work/fandf-pos.html) | Offline-first stock and sales for a tiling company, on a desktop and a card terminal | Sole developer, freelance |
-| [PortGate Nexus](https://portgatenexus.com) | Trade-compliance platform for importers and exporters | Contributor, including an LLM tariff-code classifier |
+| [PortGate Nexus](https://mr-path.site/work/portgate.html) | Trade-compliance platform for importers and exporters | Contributor, including an LLM tariff-code classifier |
 | [SkillGraph](https://mr-path.site/work/skillgraph.html) | Career-path explorer on a graph database | Solo, 48-hour take-home |
+| [Palmwine Merchants](https://mr-path.site/work/palmwine.html) | Event booking with a live estimate, shop and reservations for a palm-wine brand | Freelance, built with Lovable |
 
 Most of this is company or client code, so the repositories are private. The case studies show screenshots and explain how each one works.
 
 ### Public code
 
 - [skillgraph](https://github.com/patrickAdegbesan/skillgraph): Next.js and openCypher on CognoDB
-- [PDF_READER](https://github.com/patrickAdegbesan/PDF_READER): chat with PDFs using retrieval (LangChain, FAISS, sentence-transformers)
+- [PDF_READER](https://github.com/patrickAdegbesan/PDF_READER): chat with PDFs using retrieval (LangChain, FAISS, sentence-transformers). [Write-up](https://mr-path.site/work/pdf-chat.html)
 - [fortunetiles-system](https://github.com/patrickAdegbesan/fortunetiles-system): an earlier version of the F&F inventory and POS system
 - [portfolio-site](https://github.com/patrickAdegbesan/portfolio-site): the source of mr-path.site
 
